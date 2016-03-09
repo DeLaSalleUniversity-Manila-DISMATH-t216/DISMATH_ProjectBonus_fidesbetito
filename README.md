@@ -1,14 +1,20 @@
 # DISMATH_ProjectBonus_fidesbetito
 ___
 
+###HOME PAGE
+  - Designer: 
+    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Home.Designer.png)
+  - Blocks:
+    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Home.Blocks.png)
+
 ###LINEAR SEARCH
   - Designer:
-    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Screen.Shot.2016-03-09.at.04.13.43.png)
+    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Linear.Designer.png)
   - Blocks:
-    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Screen.Shot.2016-03-09.at.04.17.31.png)
+    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Linear.Blocks.png)
 
 ###BINARY SEARCH
   - Designer:
-    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Screen.Shot.2016-03-09.at.04.14.16.png)
+    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Binary.Designer.png)
   - Blocks:
-    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Screen.Shot.2016-03-09.at.04.16.50.png)
+    ![Screenshot](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_fidesbetito/blob/master/Binary.Blocks.png)
